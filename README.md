@@ -29,7 +29,7 @@ After training for 2 epochs, the model achieves:
 
 - **Overall Accuracy**: 88.8% (0.8883)
 
-Best performing classes: Trousers (99.7% precision), Bags (98.1% precision), and Sandals (98.5% recall).
+Best performing classes: Trousers (99.7% precision), Bags (98.1% precision), and Sandals (98.5% recall).  
 Most challenging class: Shirts (67.8% precision, 67.3% recall).
 
 ## Requirements
